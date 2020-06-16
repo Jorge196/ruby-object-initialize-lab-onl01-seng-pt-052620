@@ -1,7 +1,7 @@
 class Dog
   def initialize(name)
     @name = name
-  endlearn 
+  end
 
   def name
     @name
